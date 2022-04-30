@@ -10,7 +10,7 @@ public class SingletonBD {
 
     public static void deletarUsuario(){
 
-    System.out.println("Usuário deletado com sucesso"); }
+    System.out.println("Usuário deletado com sucesso\n"); }
 
     public static void atualizarUsuario(){ }
 
