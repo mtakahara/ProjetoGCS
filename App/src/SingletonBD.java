@@ -6,7 +6,9 @@ public class SingletonBD {
 
     private SingletonBD() { }
 
-    public static void adicionarUsuario(){ }
+    public static void adicionarUsuario(){
+        System.out.print("Usuário criado com sucesso\n");
+    }
 
     public static void deletarUsuario(){ }
 
