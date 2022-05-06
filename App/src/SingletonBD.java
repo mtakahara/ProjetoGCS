@@ -23,16 +23,6 @@ public class SingletonBD {
 
         System.out.println("Lista de usuários: \n");
 
-        if (listaUsuario.size() != 0){
-        for (int i = 0; i < listaUsuario.size(); i++) {
-            System.out.print("Usuario: " + listaUsuario.get(i).getUsuario() + " |  ");
-            System.out.print("Senha: " + listaUsuario.get(i).getSenha() + " |  ");
-            System.out.print("Nome: " + listaUsuario.get(i).getNome() + " |  ");
-            System.out.print("Ano de Nascimento: " + listaUsuario.get(i).getAnoNascimento() + "\n\n");
-        }
-        } else{
-            System.out.println("Lista Vazia \n");
-        }
     }
 
 }
