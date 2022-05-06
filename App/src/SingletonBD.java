@@ -16,7 +16,7 @@ public class SingletonBD {
     }
 
     public static void atualizarUsuario() {
-
+	System.out.print("Usuário adicionado a lista de e-mail com sucesso\n");
 
     }
     public static void listarUsuarios(){
