@@ -17,12 +17,16 @@ public class SingletonBD {
 
     public static void atualizarUsuario() {
 
-        System.out.println("Usuario atualizado \n");
+
     }
     public static void listarUsuarios(){
-
         System.out.println("Lista de usuários: \n");
 
     }
+
+    public static void deletarBD(){
+
+    }
+
 
 }
