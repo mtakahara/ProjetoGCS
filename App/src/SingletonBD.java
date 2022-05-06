@@ -8,11 +8,12 @@ public class SingletonBD {
 
     public static void adicionarUsuario(){
         System.out.print("Usuário criado com sucesso\n");
+        System.out.print("Selecione outra opção!\n");
     }
 
     public static void deletarUsuario(){ }
 
-    System.out.println("Usuário deletado com sucesso");
+    System.out.println("Usuário deletado com sucesso\n");
 
     public static void atualizarUsuario(){ }
 
