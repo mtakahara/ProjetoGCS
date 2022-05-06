@@ -25,7 +25,7 @@ public class SingletonBD {
     }
 
     public static void deletarBD(){
-        System.out.println("BD será deletado.");
+        System.out.println("BD será deletado.\n");
 
     }
 
